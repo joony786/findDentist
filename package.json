@@ -1,0 +1,19 @@
+{
+  "name": "find-dentist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.10",
+    "csv-write-stream": "^2.0.0",
+    "json2csv": "^5.0.6",
+    "puppeteer": "^10.2.0",
+    "xlsx": "^0.17.0"
+  }
+}
